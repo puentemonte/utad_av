@@ -5,4 +5,4 @@
 
 - En una nueva rama estoy modificando un archivo
 
-- En main estoy modificando una línea
+- Ya no hay conflicto
