@@ -4,3 +4,5 @@
 ## Esto también va a generar un conflicto
 
 - En una nueva rama estoy modificando un archivo
+
+- En main estoy modificando una línea
